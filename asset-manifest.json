@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/My-blog/static/css/main.073c9b0a.css",
-    "main.js": "/My-blog/static/js/main.f34d7f62.js",
+    "main.css": "/My-blog/static/css/main.fc0b2240.css",
+    "main.js": "/My-blog/static/js/main.fcee460f.js",
     "static/js/787.a361b86b.chunk.js": "/My-blog/static/js/787.a361b86b.chunk.js",
+    "static/media/room.glb": "/My-blog/static/media/room.3759c20223487a5e5173.glb",
+    "static/media/longimage.png": "/My-blog/static/media/longimage.ec942ffcc40c8f266228.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/My-blog/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Arama.glb": "/My-blog/static/media/Arama.618a92dce79ea9a45a92.glb",
+    "static/media/fontawesome-webfont.eot": "/My-blog/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/My-blog/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/My-blog/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/My-blog/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/malaysia.png": "/My-blog/static/media/malaysia.cdcf1dbaf00b4a9e48c0.png",
     "static/media/logo.svg": "/My-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/My-blog/index.html",
-    "main.073c9b0a.css.map": "/My-blog/static/css/main.073c9b0a.css.map",
-    "main.f34d7f62.js.map": "/My-blog/static/js/main.f34d7f62.js.map",
+    "main.fc0b2240.css.map": "/My-blog/static/css/main.fc0b2240.css.map",
+    "main.fcee460f.js.map": "/My-blog/static/js/main.fcee460f.js.map",
     "787.a361b86b.chunk.js.map": "/My-blog/static/js/787.a361b86b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f34d7f62.js"
+    "static/css/main.fc0b2240.css",
+    "static/js/main.fcee460f.js"
   ]
 }
