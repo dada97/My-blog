@@ -5,6 +5,9 @@ import ThreeCanvas from "./components/Three/ThreeCanvas";
 import PageWrapper from "./components/pages/PageWrapper";
 
 function App() {
+
+  document.title = "Dada's Blog";
+
   return (
     <div className="App">
       <Navbar></Navbar>
