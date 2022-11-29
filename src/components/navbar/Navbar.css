@@ -1,0 +1,82 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+} */
+
+li,
+a,
+button {
+  font-weight: 500;
+  font-size: 16px;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+button {
+  background-color: #24252a;
+}
+
+.nav {
+  top: 0px;
+  position: fixed;
+  height: 40px;
+  width: calc(100% - 20px);
+  background-color: #24252a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 3;
+  padding: 10px 10px;
+}
+
+.nav_links {
+  padding: 0px 0px;
+  position: relative;
+  list-style: none;
+}
+
+.nav_links li {
+  background-color: NONE;
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav_links li a {
+  position: relative;
+  z-index: 1;
+  transition: all 0.3 ease 0;
+}
+
+.nav_links li a:hover {
+  color: #0088a9;
+}
+
+button {
+  padding: 9px 25px;
+  background-color: rgba(0, 136, 169, 1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: rgba(0, 136, 169, 0.8);
+}
+
+nav #marker {
+  position: absolute;
+  left: 0;
+  height: 4px;
+  width: 0px;
+  background: #0088a9;
+  bottom: -8px;
+  transition: 0.5s;
+  border-radius: 4px;
+}

@@ -1,0 +1,32 @@
+.skills-inside {
+  background-color: white;
+  min-width: 400px;
+
+  width: 70%;
+  margin: auto;
+}
+
+.skills-title {
+  padding-top: 25px;
+  text-decoration: underline;
+  margin: 0;
+}
+
+.skills-inside *{
+  color: black;
+}
+
+.changeColor {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.skills-description{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 50px;
+  flex-wrap: wrap;
+}
+

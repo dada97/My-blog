@@ -1,0 +1,50 @@
+.education-inside {
+  background-color: #335c67;
+  min-width: 400px;
+
+  width: 70%;
+  margin: auto;
+  color: white;
+  border-radius: 0px 0px 15px 15px;
+}
+
+.cs {
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.school {
+  font-size: 10px;
+}
+
+.education {
+  margin: 0px;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+.education-description {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  justify-content: space-around;
+}
+
+.icon {
+  margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.csp{
+    margin:0px;
+}
+
+.LIST{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
